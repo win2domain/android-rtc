@@ -1,73 +1,73 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:1:1-16:12
-INJECTED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:1:1-16:12
-INJECTED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:1:1-16:12
-INJECTED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:1:1-16:12
-INJECTED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:1:1-16:12
-INJECTED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:1:1-16:12
-INJECTED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:1:1-16:12
+ADDED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:1:1-16:12
+INJECTED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:1:1-16:12
+INJECTED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:1:1-16:12
+INJECTED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:1:1-16:12
+INJECTED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:1:1-16:12
+INJECTED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:1:1-16:12
+INJECTED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:1:1-16:12
 	package
-		ADDED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:2:5-36
-		INJECTED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
-		INJECTED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
+		ADDED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:2:5-36
+		INJECTED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
-		ADDED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:1:1-16:12
-		INJECTED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
+		ADDED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:1:1-16:12
+		INJECTED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
-		ADDED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:1:1-16:12
-		INJECTED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
+		ADDED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:1:1-16:12
+		INJECTED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:1:11-69
+		ADDED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:1:11-69
 uses-feature#android.hardware.camera
-ADDED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:4:5-60
+ADDED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:4:5-60
 	android:name
-		ADDED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:4:19-57
+		ADDED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:4:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:5:5-70
+ADDED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:5:5-70
 	android:name
-		ADDED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:5:19-67
+		ADDED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:5:19-67
 uses-permission#android.permission.CAMERA
-ADDED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:7:5-65
+ADDED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:7:5-65
 	android:name
-		ADDED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:7:22-62
+		ADDED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:7:22-62
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
-ADDED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:8:5-80
+ADDED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:8:5-80
 	android:name
-		ADDED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:8:22-77
+		ADDED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:8:22-77
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:9:5-71
+ADDED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:9:5-71
 	android:name
-		ADDED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:9:22-68
+		ADDED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:9:22-68
 uses-permission#android.permission.INTERNET
-ADDED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:10:5-67
+ADDED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:10:5-67
 	android:name
-		ADDED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:10:22-64
+		ADDED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:10:22-64
 uses-permission#android.permission.WAKE_LOCK
-ADDED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:11:5-68
+ADDED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:11:5-68
 	android:name
-		ADDED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:11:22-65
+		ADDED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:11:22-65
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:12:5-80
+ADDED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:12:5-80
 	android:name
-		ADDED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:12:22-78
+		ADDED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:12:22-78
 application
-ADDED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:14:5-59
+ADDED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:14:5-59
 	android:allowBackup
-		ADDED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:14:18-44
+		ADDED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml:14:18-44
 uses-sdk
-INJECTED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
-INJECTED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
-INJECTED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
-INJECTED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
+INJECTED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
+INJECTED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
+INJECTED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
+INJECTED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
-		ADDED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
-		INJECTED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
+		ADDED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
-		ADDED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
-		INJECTED from E:\workspace\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
+		ADDED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\android studio\AndroidRTC\webrtc-client\src\main\AndroidManifest.xml
